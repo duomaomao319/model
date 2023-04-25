@@ -50,5 +50,6 @@
 	"console_controller":"console controller",
 	"lamp":"lamp",
 	"bicycle":"bicycle",
-	"cactus":"cactus"
+	"cactus":"cactus",
+	"drone":"drone"
 }
