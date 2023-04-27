@@ -1,25 +1,4 @@
 force_download:
-  - dog_t_shirt
-  - dog_wearing_sunglasses
-  - bunny
-  - bowling_ball
-  - basketball
-  - alarm_clock
-  - egg_on_a_plate
-  - very_fast_car
-  - sunny_sky
-  - someone_playing_soccer
-  - someone_playing_golf
-  - steering_wheel
-  - someone_playing_hockey
-  - tennis_ball
-  - planet
-  - baseball_match
-  - slow_car
-  - cat_t_shirt
-  - car
-  - cat_wearing_a_pirate_hat
-  - rugby_ball
   - hot_dog
   - croissant
   - onions
@@ -52,3 +31,4 @@ force_download:
   - drone
   - dart_board
   - casino_tokens
+  - cassette_tape
