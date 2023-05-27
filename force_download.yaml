@@ -1,12 +1,4 @@
 force_download:
-  - hedgehog
-  - duck
-  - crab
-  - chicken
-  - frog
-  - goat
-  - fox
-  - foxo
   - squirrel
   - solar_paneel
   - solar_paaneel
@@ -39,3 +31,4 @@ force_download:
   - motorcycle
   - shoe
   - animal
+  - planet
