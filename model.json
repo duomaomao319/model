@@ -118,5 +118,6 @@
 	"animal":"animal",
 	"planet":"planet",
 	"shipyard":"shipyard",
-	"floppy_disks":floppy disks"
+	"floppy_disks":"floppy disks",
+	"power_lines":"power lines"
 }
