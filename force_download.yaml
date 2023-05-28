@@ -1,29 +1,10 @@
 force_download:
-  - squirrel
   - solar_paneel
   - solar_paaneel
   - solar_paanel
   - solar_panel
-  - windmill
-  - tissue_paper
-  - typewritter
-  - knife
-  - paintbrush
-  - monitor
-  - pencil
-  - dumbbell
   - yoko
   - yyoko
-  - hourglass
-  - bottle_of_water
-  - puzzle_cube
-  - globe
-  - microscope
-  - notebook
-  - trash_bin
-  - flashlight
-  - surfboard
-  - puzzle
   - sunglasses
   - leather_bag
   - map
@@ -35,3 +16,4 @@ force_download:
   - shipyard
   - floppy_disks
   - power_lines
+  - clapboard
