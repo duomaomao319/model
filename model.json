@@ -121,5 +121,8 @@
 	"floppy_disks":"floppy disks",
 	"power_lines":"power lines",
 	"clapboard":"clapboard",
-	"highway":"highway"
+	"highway":"highway",
+	"telescope":"telescope",
+	"satellite":"satellite",
+	"highway":"highway",
 }

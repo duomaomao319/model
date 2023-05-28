@@ -18,3 +18,5 @@ force_download:
   - power_lines
   - clapboard
   - highway
+  - satellite
+  - telescope
