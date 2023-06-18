@@ -141,5 +141,6 @@
 	"flower":"flower",
 	"musical_instrument":"musical instrument",
 	"animal_wearing_glasses":"animal wearing glasses",
-	"raccoon":"raccoon"
+	"raccoon":"raccoon",
+	"similarity":"what animal is shown in the image below?"
 }
