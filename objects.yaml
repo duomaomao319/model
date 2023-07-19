@@ -1358,3 +1358,6 @@ label_alias:
   airport:
     en:
     - airport
+  door:
+    en:
+    - door
