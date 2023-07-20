@@ -157,5 +157,6 @@
 	"zebra":"zebra",
 	"door":"door",
 	"table":"table",
-	"weasel":"weasel"
+	"weasel":"weasel",
+	"chess_piece":"chess piece"
 }

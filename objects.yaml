@@ -1367,3 +1367,6 @@ label_alias:
   weasel:
     en:
     - weasel
+  chess_piece:
+    en:
+    - chess_piece
