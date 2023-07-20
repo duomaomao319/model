@@ -1361,3 +1361,6 @@ label_alias:
   door:
     en:
     - door
+  table:
+    en:
+    - table
