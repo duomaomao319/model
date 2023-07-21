@@ -1370,3 +1370,6 @@ label_alias:
   chess_piece:
     en:
     - chess piece
+  bed:
+    en:
+    - bed
