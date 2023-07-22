@@ -1376,3 +1376,6 @@ label_alias:
   tree:
     en:
     - tree
+  keyboard:
+    en:
+    - keyboard
