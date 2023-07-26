@@ -43,3 +43,5 @@ force_download:
   - motor_vehicle
   - violin
   - helicopter
+  - item_of_office_equipment
+  - musical_instrument
