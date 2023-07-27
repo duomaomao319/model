@@ -1385,3 +1385,6 @@ label_alias:
   item_of_office_equipment:
     en:
     - item of office equipment
+  outdoor_gear:
+    en:
+    - outdoor gear
